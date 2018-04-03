@@ -1,0 +1,10 @@
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\bin\Debug\get_set.exe.config
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\bin\Debug\get_set.exe
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\bin\Debug\get_set.pdb
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\obj\Debug\get_set.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\obj\Debug\get_set.Form1.resources
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\obj\Debug\get_set.Form2.resources
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\obj\Debug\get_set.Properties.Resources.resources
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\obj\Debug\get_set.csproj.GenerateResource.Cache
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\obj\Debug\get_set.exe
+c:\users\tina\documents\visual studio 2015\Projects\get_set\get_set\obj\Debug\get_set.pdb
